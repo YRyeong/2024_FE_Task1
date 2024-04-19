@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YRyeong/2024_FE_Task1/static/css/main.f8747f09.css",
+    "main.js": "/YRyeong/2024_FE_Task1/static/js/main.a6f56700.js",
+    "static/js/453.3754d6c2.chunk.js": "/YRyeong/2024_FE_Task1/static/js/453.3754d6c2.chunk.js",
+    "index.html": "/YRyeong/2024_FE_Task1/index.html",
+    "main.f8747f09.css.map": "/YRyeong/2024_FE_Task1/static/css/main.f8747f09.css.map",
+    "main.a6f56700.js.map": "/YRyeong/2024_FE_Task1/static/js/main.a6f56700.js.map",
+    "453.3754d6c2.chunk.js.map": "/YRyeong/2024_FE_Task1/static/js/453.3754d6c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8747f09.css",
+    "static/js/main.a6f56700.js"
+  ]
+}
